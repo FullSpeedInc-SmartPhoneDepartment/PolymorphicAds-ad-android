@@ -8,7 +8,7 @@
 
 ##### 2016/09/08 v1.0.3
 
-Polymorphic Android SDKをリリースしました。
+PolymorphicAds Android SDKをリリースしました。
 
 以下の広告フォーマットに対応しています。
 
